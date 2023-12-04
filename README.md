@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Victor Akande
-- 👀 I started learning to code October 2022
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML, CSS, Javascript and Python
 - 📫 How to reach me mail: victorakande847@gmail.com
 
 <!---
