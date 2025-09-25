@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Victor Akande
-- 🌱 I’m currently learning HTML, CSS, Javascript and Python
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me mail: victorakande847@gmail.com
 
 <!---
